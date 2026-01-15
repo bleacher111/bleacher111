@@ -25,7 +25,7 @@ I build data-driven solutions for retail operations and logistics—combining an
 
 ## Tech stack
 **Python**, pandas, scikit-learn, PyTorch, SQL, Tableau  
-FastAPI, Docker (basics), GitHub Actions (basics)
+FastAPI, Docker
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/bruno-dinello
