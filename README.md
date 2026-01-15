@@ -11,17 +11,8 @@ I build data-driven solutions for retail operations and logistics—combining an
 - Lightweight MLOps: APIs, packaging, testing, and deployment basics
 
 ## Featured projects
-- **Forecasting + Replenishment (end-to-end)** — baseline vs improved models, evaluation, and a simple reorder policy  
-  Repo: https://github.com/TU_USUARIO/forecasting-replenishment-playbook
-
-- **Assortment Optimization Demo** — recommendation signals + constrained optimization to select store-SKU mix  
-  Repo: https://github.com/TU_USUARIO/assortment-optimization-demo
-
-- **FastAPI ML Inference Template** — clean project structure, tests, Docker-ready inference API  
-  Repo: https://github.com/TU_USUARIO/fastapi-ml-inference
-
-- **Computer Vision Demo (Retail context)** — a small CV project with clear metrics + demo notebook  
-  Repo: https://github.com/TU_USUARIO/cv-retail-demo
+- **Segmemntation usando U-Net** — Proyecto end-to-end de segmentación de imágenes binarias utilizando U-Net en PyTorch.
+  Repo: https://github.com/bleacher111/net-image-segmentation
 
 ## Tech stack
 **Python**, pandas, scikit-learn, PyTorch, SQL, Tableau  
